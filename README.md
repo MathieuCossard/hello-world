@@ -1,2 +1,4 @@
 # hello-world
-Essentially empty repository
+Really empty repository
+
+Un dépôt qui ne sert à rien
